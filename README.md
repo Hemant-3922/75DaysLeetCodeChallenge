@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
 | ------- |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 <!---LeetCode Topics End-->
