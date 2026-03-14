@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Hemant-3922/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
